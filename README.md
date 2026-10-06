@@ -1,2 +1,2 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]()
-(https://lnkd.in/p/gDipppB8) 
+
+[![Watch Video on LinkedIn](https://img.shields.io/badge/Watch%20Video-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://lnkd.in/p/gDipppB8) 
